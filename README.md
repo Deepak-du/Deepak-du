@@ -25,3 +25,8 @@
 <p align="center">
   <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
 </p>
+## ⚡ GitHub Stats
+<img align="left" alt="xtenzQ's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xtenzQ&show_icons=true&hide_border=true" />
+
+<!--
+**xtenzQ/xtenzQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
