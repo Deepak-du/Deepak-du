@@ -11,7 +11,7 @@
 </a>
 </a>
 <a href="https://dev.to/deepakdu">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAABrklEQVRYR+2YjS0EQRiGn+uADqgAFaACdEAFdIAKUAEqQAWnA3SgA1RAnmQ+WZNds7e7l2wuO8nmcjc/3zPvfvPOzM0YWZmNjIcJqPRGmhRaAw6AjdIAHevfgSfgM+9fByTMHNjuGKxtt1dgP4eqAzoGbtuO2rPdCXBXHaMO6AI47xmobfdLwHi/ZQLKpJsUKuXSaihUTXyN8hC4SlPfAfSTKHvJw9aTv3xX6o6Ax/RoupZOCgWQwZ7TQHqHxumjkW6l3/1+DURw2++mujrIXkDOVqt3YOH0Dz9DlWq+3ABn6VHNtwSft+0NZFAVKwG5V20miBcgAHPTXQpQKJMHE0gwVXU7Mn+qr7B3DkWC5go1AcU+JYgLwVz7GMIYI6mbgOpyyLj3SRkT3ZUo1MPQQF9ppqUcMm4sgGBw9Z0OCSSEMzWQy96lrg/5KuLs5Gd4lLGrPmXfsIfg6pXUDmJATS2ODE3GGAFNYnPJpK470nQCKu1HfeonoJJ6k0KrqdDorkEanf6Rm1hJ/kXrPZJotn9ur/9dpd17lnmVdtNtdZVedKaDtp/+jinJOTqFfgAPN30lGxAsRwAAAABJRU5ErkJggg=="/>
 </a>
 
 <br />
