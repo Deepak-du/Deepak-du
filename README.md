@@ -20,3 +20,8 @@
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Applied Mathmatics </br>
 👨‍💻  I am passionate about Data Science, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
 
+## My skills
+
+<p align="center">
+  <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
+</p>
