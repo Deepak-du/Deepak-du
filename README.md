@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Deepak!](//http://deepak-dev.tech/) 
 
-<a href="https://www.linkedin.com/in/kunal-kushwaha/">
+<a href="https://www.linkedin.com/in/deepak-dubey-b921a1178/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/thatdeepak">
@@ -23,7 +23,7 @@
 <a href="https://github.com/Deepak-du">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktoxcon&title_color=002573&text_color=002573" />
   </a>
-  <a href="https://github.com/ktoxcon">
+  <a href="https://github.com/Deepak-du">
     <img src="https://github-readme-stats.vercel.app/api?username=deepak-du&title_color=002573&show_icons=true&3&icon_color=28057D" />
   </a>
   <hr>
