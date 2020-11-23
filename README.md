@@ -24,9 +24,14 @@
 
 
 In case you would simply like a public badge to count your visitors, try [GitHub Profile Views Counter].
-![](https://hit.yhype.halp.im/github/profile?user_id=69639135)
 
-<a href="https://github.com/Deepak-du/github-profile-views-counter">
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Deepak-du">
+</a>
+
+[Ÿ HŸPE]: https://yhype.halp.im
+[GitHub Profile Views Counter]: https://github.com/Deepak-du
+![]((https://hit.yhype.halp.im/github/profile?user_id=69639135))
 
 <a href="https://github.com/Deepak-du">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-du&title_color=002573&text_color=002573" />
