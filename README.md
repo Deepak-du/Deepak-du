@@ -24,6 +24,7 @@
 
 
 In case you would simply like a public badge to count your visitors, try [GitHub Profile Views Counter].
+![](https://hit.yhype.halp.im/github/profile?user_id=69639135)
 
 <a href="https://github.com/Deepak-du/github-profile-views-counter">
 
