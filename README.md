@@ -25,7 +25,7 @@
 
 In case you would simply like a public badge to count your visitors, try [GitHub Profile Views Counter].
 
-<a href="https://Deepak-du/github-profile-views-counter">
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Deepak-du">
 </a>
 
