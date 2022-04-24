@@ -1,51 +1,30 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Deepak!](//http://deepak-dev.tech/)
-
-<a href="https://www.linkedin.com/in/deepak-dubey-b921a1178/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/thatdeepak">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="Dubeydallen@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://dev.to/deepakdu">
-   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-  
-</a>
-
-<br />
-
-### About Me 🚀
-
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Applied Mathmatics </br>
-👨‍💻 I am passionate about Data Science, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+# Hey folks! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Deepak](https://www.linkedin.com/in/anuja-kumari-4a62581aa) !! 
 
 
-In case you would simply like a public badge to count your visitors, try [GitHub Profile Views Counter].
+<h2 align="center"> ✨ Welcome to my profile ✨ </h2>
 
-<a href="https://Deepak-du/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Deepak-du">
-</a>
+<div align = "center">
+ <img width="50%" height="50%" src="intro.gif" alt="">
+</div>
 
-[Ÿ HŸPE]: https://yhype.halp.im
-[GitHub Profile Views Counter]: https://github.com/Deepak-du
-![]((https://hit.yhype.halp.im/github/profile?user_id=69639135))
+### About Me 🚀 <br />
 
-<a href="https://github.com/Deepak-du">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-du&title_color=002573&text_color=002573" />
-  </a>
-  <a href="https://github.com/Deepak-du">
-    <img src="https://github-readme-stats.vercel.app/api?username=deepak-du&title_color=002573&show_icons=true&3&icon_color=28057D" />
-  </a>
-  <hr>
-  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-  <img align="left" alt="TS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
-  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+🎓 I'm currently pursuing my Bachelors in Applied Mathematics. <br />
+🎓 Currently Learning and Integrating New Technologies. <br/>
+
+## Technologies 🛠 
+
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <br/>
+
+
+## ⚡ Connect with me 
+<p align="left">
+<a href="https://twitter.com/thatdeepak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thatdeepak" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepak-dubey-b921a1178/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deepak-dubey-b921a1178" height="30" width="40" /></a>
+<a href="https://medium.com/@dubeydallen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="dubeydallen" height="30" width="40" /></a>
+</p>
+
+
+## 📈 Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepak-du&hide=issues&show_icons=true&theme=highcontrast" alt="Deepak-du" /></p>
