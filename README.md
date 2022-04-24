@@ -5,7 +5,7 @@
 
 ### About Me 🚀 <br />
 
-🎓 I'm currently pursuing my Bachelors in Applied Mathematics. <br />
+🎓 I'm currently pursuing my Bachelors in Applied Mathematics at Hochschule Mittweida. <br />
 🎓 Currently Learning and Integrating New Technologies. <br/>
 
 ## Technologies 🛠 
